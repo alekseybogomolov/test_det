@@ -17,7 +17,6 @@
 Примеры распознаваний:
 
 ![alt text](examples/example1.png)
-![alt text](examples/example2.png)
 ![alt text](examples/example3.png)
 ![alt text](examples/example4.png)
 
